@@ -9,7 +9,7 @@ module.exports = {
     // Load file
     entry: `./index.js`,
 
-    // Output file
+    // Output files
     output: {
         path: path.join(__dirname, "dist"),
         filename: "main.js"
